@@ -8,7 +8,7 @@
   git add README.md
   git commit -m "first commit"
   git remote add origin https://github.com/nhimspec/PushLenGit.git
-  git push -u origin master
+  git push -u origin master  / git push origin --mirror
 ```
 
 ### …or push an existing repository from the command line ###
